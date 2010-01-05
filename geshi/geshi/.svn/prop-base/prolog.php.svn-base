@@ -1,0 +1,13 @@
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 23
+Author Date Id Revision
+K 13
+svn:mergeinfo
+V 109
+/trunk/geshi-1.0.X/src/geshi/prolog.php:1909-1924,1927-1970,1973-1999,2001-2027,2030-2048,2050-2064,2066-2090
+END
